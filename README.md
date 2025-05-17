@@ -6,14 +6,60 @@ This repository is a structured, topic-wise project aimed at mastering the mathe
 - Excel-based implementations (`/excel/` folder)
 - Python code notebooks (`.ipynb`)
 
-## Topics Covered
+## Syllabus Structure
 
-1. Linear Algebra
-2. Probability & Statistics
-3. Calculus
-4. Optimization
-5. Stochastic Calculus
-6. Numerical Methods
+### 1. Linear Algebra for Quants
+- Vectors and Matrices
+- Matrix Operations (Inverse, Transpose, Rank)
+- Linear Independence
+- Eigenvalues & Eigenvectors
+- Applications:
+  - Portfolio Optimization (Markowitz Theory)
+  - PCA (Principal Component Analysis)
+
+### 2. Probability and Statistics
+- Probability Distributions (Normal, Binomial, Poisson)
+- Joint, Marginal, Conditional Probabilities
+- Expectation, Variance, Covariance
+- CLT & Law of Large Numbers
+- Hypothesis Testing
+- Applications:
+  - Value at Risk (VaR)
+  - Regression and Correlation Analysis
+
+### 3. Calculus for Finance
+- Differentiation and Integration
+- Partial Derivatives and Gradient
+- Chain Rule, Hessian Matrix
+- Applications:
+  - Option Greeks
+  - Cost/Revenue Optimization
+
+### 4. Optimization Techniques
+- Unconstrained & Constrained Optimization
+- Lagrange Multipliers
+- Convexity
+- Applications:
+  - Portfolio Allocation
+  - Risk-Return Trade-off
+
+### 5. Stochastic Calculus
+- Brownian Motion (Wiener Process)
+- Ito’s Lemma
+- Stochastic Differential Equations (SDEs)
+- Applications:
+  - Black-Scholes Formula
+  - Interest Rate Models (Vasicek, CIR)
+
+### 6. Numerical Methods for Quants
+- Root Finding (Newton-Raphson)
+- Monte Carlo Simulations
+- Finite Difference Methods (PDEs)
+- Applications:
+  - Option Pricing via Simulation
+  - Greeks Calculation
+
+---
 
 ## Showcase Case Studies
 
