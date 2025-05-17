@@ -1,0 +1,72 @@
+## 1. Linear Algebra
+Vectors and Matrices
+
+Matrix Operations (Transpose, Inverse, Rank)
+
+Linear Independence
+
+Eigenvalues and Eigenvectors
+
+Applications in:
+
+Portfolio Optimization (Markowitz)
+
+PCA (Principal Component Analysis)
+
+## 2. Probability & Statistics
+Probability Distributions (Normal, Binomial, Poisson)
+
+Joint, Marginal, and Conditional Distributions
+
+Expectation, Variance, Covariance
+
+Law of Large Numbers, Central Limit Theorem
+
+Hypothesis Testing, p-value
+
+Correlation and Regression
+
+## 3. Calculus
+Differentiation (Single and Multivariable)
+
+Integration (Definite and Indefinite)
+
+Partial Derivatives
+
+Gradient, Hessian
+
+Applications in:
+
+Option Greeks
+
+Optimization Problems
+
+## 4. Optimization
+Unconstrained Optimization
+
+Constrained Optimization (Lagrange Multipliers)
+
+Convex Functions and Sets
+
+Applications in:
+
+Risk-Return Optimization
+
+Cost Minimization
+
+## 5. Stochastic Calculus
+Brownian Motion (Wiener Process)
+
+Ito’s Lemma
+
+Stochastic Differential Equations (SDEs)
+
+Black-Scholes Derivation
+
+## 6. Numerical Methods
+Newton-Raphson for Root Finding
+
+Monte Carlo Simulation
+
+Finite Difference Methods for PDEs
+
